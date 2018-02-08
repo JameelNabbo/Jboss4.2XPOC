@@ -1,6 +1,6 @@
 #JBoss sensitive information disclosure 4.2X & 4.3.X CVE-2010-1429
 # Date: 02/08/2018
-# Exploit Author: JameelNabbo
+# POC Author: JameelNabbo
 # Vendor Homepage: http://www.jboss.org
 # Software Link: http://jbossas.jboss.org/downloads
 # Version: 4.2X. & 4.3.X
