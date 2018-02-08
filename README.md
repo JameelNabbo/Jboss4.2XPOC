@@ -9,7 +9,7 @@
 
 1. Description
    
-By requesting the Status param and sitting its value to true, Jobss will print a sensitive information such as Memory used/Total Memory / Client IP address.
+By requesting the Status param and setting its value to true, Jobss will print a sensitive information such as Memory used/Total Memory / Client IP address.
 Example:   http://127.0.01/status?full=true
  
    
